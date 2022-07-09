@@ -1,0 +1,36 @@
+.country-list {
+	list-style: none;
+	padding: 0;
+}
+.img-holder {
+		margin-right: 10px;
+		min-width: 40px;
+	}
+
+h1, h2, h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+img {
+		width: auto;
+	}
+
+.country-item {
+	display: flex;
+	align-items: center;
+	h2 {
+		font-size: 14px;
+		font-weight: normal;
+	}	
+}
+.country-info {
+ .img-holder {
+	display: flex;
+	align-items: center;	
+ }
+
+ img {
+	margin-right: 10px;
+ }
+}
